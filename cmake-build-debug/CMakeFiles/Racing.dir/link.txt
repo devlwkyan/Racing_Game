@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Racing.dir/main.cpp.o  -o Racing 
